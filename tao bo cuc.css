@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+#head {
+    background-color: burlywood;
+    height: 200px;
+    width: 100%;
+}
+#head-link {
+    background-color: yellow;
+    height: 50px;
+    width: 100%;
+}
+#main {
+    background-color: cornflowerblue;
+    height: 700px;
+    width: 60%;
+    float: left;
+}
+#left {
+    background-color: yellowgreen;
+    height: 700px;
+    width: 20%;
+    float: left;
+}
+#right {
+    background-color: rosybrown;
+    height: 700px;
+    width: 20%;
+    float: left;
+}
+#footer {
+    background-color: cyan;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
